@@ -1,0 +1,26 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Page background and font */
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+  text-align: center;
+  padding: 50px;
+}
+
+/* Styling a main heading */
+h1 {
+  color: #0078d7;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+/* Styling a paragraph */
+p {
+  font
